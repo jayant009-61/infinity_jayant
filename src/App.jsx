@@ -9,8 +9,8 @@ const GameIntro = () => {
         Your browser does not support HTML5 video.
       </video>
 
-      <div className="a">~
-        <img src="/pic.webp" alt="" width={300}/><br /><br /><br />
+      <div className="a">
+        <img src="/pic.webp" alt="" width={250}/><br /><br /><br />
         <h1>My self Infinty Jayant</h1><br />
         <h2>I am on the path to be a coder</h2><br />
         <h3>My Masters web:</h3>
