@@ -5,12 +5,12 @@ const GameIntro = () => {
   return (
     <div className="game-container">
       <video className="bg-video" autoPlay muted loop>
-        <source src="/assets/vedio1.mp4" type="video/mp4" />
+        <source src="/vedio1.mp4" type="video/mp4" />
         Your browser does not support HTML5 video.
       </video>
 
-      <div className="a">
-        <img src="/assets/c147dc8c595f4e0d9b8de480150fd23a.webp" alt="" width={300}/><br /><br /><br />
+      <div className="a">~
+        <img src="/pic.webp" alt="" width={300}/><br /><br /><br />
         <h1>My self Infinty Jayant</h1><br />
         <h2>I am on the path to be a coder</h2><br />
         <h3>My Masters web:</h3>
